@@ -1,16 +1,52 @@
-# React + Vite
+# 💛 Site Dia das Mães | Lorena
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um site especial desenvolvido como homenagem de Dia das Mães para Lorena.
 
-Currently, two official plugins are available:
+O projeto foi criado com foco em uma experiência emocional, moderna e visualmente elegante, trazendo animações suaves, mensagens personalizadas, fotos da família e uma estética acolhedora em tons de amarelo e dourado.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Sobre o projeto
 
-## React Compiler
+A ideia do site é funcionar como uma homenagem interativa, permitindo que a mãe navegue pelas seções e descubra mensagens especiais feitas pelos filhos.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+O site possui:
 
-## Expanding the ESLint configuration
+- Hero section animada
+- Efeitos visuais suaves
+- Emojis e partículas flutuantes
+- Layout totalmente responsivo
+- Cartões interativos dos filhos
+- Modal com fotos e mensagens personalizadas
+- Carta final de homenagem
+- Transições cinematográficas com Framer Motion
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tecnologias utilizadas
+
+- React
+- Vite
+- Framer Motion
+- CSS3
+
+## 📱 Responsividade
+
+O projeto foi desenvolvido para funcionar corretamente em:
+
+- Desktop
+- Tablets
+- Smartphones
+
+## 🎨 Estilo visual
+
+O design utiliza:
+
+- Tons dourados e amarelos
+- Glassmorphism
+- Glow effects
+- Animações suaves
+- Layout editorial moderno
+
+## 🚀 Como executar o projeto
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/Gabriel-Guerreiro-Rm/site-dia-das-maes.git
