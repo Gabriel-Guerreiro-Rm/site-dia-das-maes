@@ -1,6 +1,6 @@
-# 💛 Site Dia das Mães | Lorena
+# 💛 Site Dia das Mães
 
-Um site especial desenvolvido como homenagem de Dia das Mães para Lorena.
+Um site especial desenvolvido como homenagem de Dia das Mães para a minha Mãe: Lorena.
 
 O projeto foi criado com foco em uma experiência emocional, moderna e visualmente elegante, trazendo animações suaves, mensagens personalizadas, fotos da família e uma estética acolhedora em tons de amarelo e dourado.
 
@@ -44,9 +44,9 @@ O design utiliza:
 - Animações suaves
 - Layout editorial moderno
 
-## 🚀 Como executar o projeto
+## 🚀 Como acessar o site
 
-Clone o repositório:
+O site foi deployado através do Vercel:
 
 ```bash
-git clone https://github.com/Gabriel-Guerreiro-Rm/site-dia-das-maes.git
+https://site-dia-das-maes-two.vercel.app
